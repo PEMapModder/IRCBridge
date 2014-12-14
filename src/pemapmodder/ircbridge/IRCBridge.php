@@ -5,6 +5,8 @@ namespace pemapmodder\ircbridge;
 use pocketmine\plugin\PluginBase;
 
 class IRCBridge extends PluginBase{
+	/** @var IRCServer */
+	private $ircServer;
 	public function onEnable(){
 		$this->saveDefaultConfig();
 		$config = $this->getConfig()->getAll();
