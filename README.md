@@ -1,4 +1,4 @@
 IRCBridge
 =========
 
-Let people talk on your server with an IRC client
+A PocketMine-MP plugin that lets people talk on your PocketMine server with an IRC client.
