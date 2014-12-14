@@ -1,0 +1,5 @@
+---
+ip: 0.0.0.0 # same as the PocketMine server IP, don't change this unless you know what this actually means.
+port: 6667
+server password: false
+...

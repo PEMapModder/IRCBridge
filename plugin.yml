@@ -1,0 +1,6 @@
+main: pemapmodder\ircbridge\IRCBridge
+name: IRCBridge
+website: https://github.com/PEMapModder/IRCBridge
+version: 1.0.0_indev_#0
+api: [1.9.0]
+author: PEMapModder
