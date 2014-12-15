@@ -1,5 +1,9 @@
 ---
 ip: 0.0.0.0 # same as the PocketMine server IP, don't change this unless you know what this actually means.
 port: 6667
-server password: false
+server name: IRCBridge
+server password: false # leave false if you don't want any server passwords
+NickServ password with SimpleAuth: true # provide a NickServ service to authenticate with, data provided by SimpleAuth
+channel name: chat
+channel topic: Chatroom of the server
 ...
